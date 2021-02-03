@@ -1,8 +1,14 @@
 # Motivation
 
-At [Zalando](http://zalando.de), we maintain a [public Tech
-Radar](http://zalando.github.io/tech-radar/) to help our engineering teams
-align on technology choices. It is based on the [pioneering work
+What is Core Context?
+The Elantis Core Context Tech Radar is a list of technologies, that have a ring assignment. We use four rings with the following semantics:
+
+MANAGE — Technologies we have high confidence in to serve our purpose, also in large scale. Technologies with a usage culture in our Elantis production environment, low risk and recommended to be widely used.
+STRATEGIC — Technologies that we have seen work with success in project work to solve a real problem; first serious usage experience that confirm benefits and can uncover limitations. Strategic technologies are slightly more risky; some engineers in our organization walked this path and will share knowledge and experiences.
+FUTURE GROWTH — Technologies that are promising and have clear potential value-add for us; technologies worth to invest some research and prototyping efforts in to see if it has impact. Future Growth technologies have higher risks; they are often brand new and highly unproven in our organisation. You will find some engineers that have knowledge in the technology and promote it, you may even find teams that have started a prototyping effort.
+DISTRACTION — Technologies not recommended to be used for new projects. Technologies that we think are not (yet) worth to (further) invest in. These technologies should not be used for new projects, but usually can be continued for existing projects.
+
+It is based on the [pioneering work
 by ThoughtWorks](https://www.thoughtworks.com/radar).
 
 This repository contains the code to generate the visualization:
