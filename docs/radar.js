@@ -257,7 +257,7 @@ function radar_visualization(config) {
         var dx = ring < 2 ? 0 : 120;
         var dy = (index == null ? -16 : index * 12);
         if (ring % 2 === 1) {
-            dy = dy + 36 + segmented[quadrant][ring - 1].length * 22;
+            dy = dy + 36 + segmented[quadrant][ring - 1].length * 12;
         }
         return translate(
             legend_offset[quadrant].x + dx,
@@ -404,7 +404,8 @@ function radar_visualization(config) {
         var blip = d3.select(this);
 
         // blip link
-        if (!config.print_layout && d.active && d.hasOwnProperty("link")) {
+        //if (!config.print_layout && d.active && d.hasOwnProperty("link")) {
+        if (d.hasOwnProperty("link")) {
             blip = blip.append("a")
                 .attr("xlink:href", d.link);
         }
