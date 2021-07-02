@@ -25,7 +25,7 @@
                 grid: "#bbb",
                 inactive: "#ddd"
             },
-            title: "Elantis Tech Radar / Core Context — 2021.05",
+            title: "Elantis Tech Radar / Core Context — 2020.05",
             quadrants: [{
                 name: "Business Process Automation"
             }, {
@@ -62,21 +62,21 @@
                     ring: 1,
                     label: "Live Tiles",
                     active: false,
-                    link: "https://elantis.sharepoint.com/sites/CC/SitePages/Enterprise-Content-Management.aspx",
+                    link: "../data_processing/live_tiles.html",
                     moved: 0
                 }, {
                     quadrant: 2,
                     ring: 1,
                     label: "Valo",
                     active: false,
-                    link: "https://elantis.sharepoint.com/sites/CC/SitePages/Enterprise-Content-Management.aspx",
+                    link: "../data_processing/valo.html",
                     moved: 0
                 }, {
                     quadrant: 2,
                     ring: 1,
                     label: "Teams",
                     active: false,
-                    link: "https://elantis.sharepoint.com/sites/CC/SitePages/Enterprise-Content-Management.aspx",
+                    link: "../data_processing/teams.html",
                     moved: 0
                 }, {
                     quadrant: 3,
@@ -104,21 +104,21 @@
                     ring: 0,
                     label: "SP Health Checks",
                     active: false,
-                    link: "https://elantis.sharepoint.com/sites/CC/SitePages/Enterprise-Content-Management.aspx",
+                    link: "../data_processing/sphealthchecks.html",
                     moved: 0
                 }, {
                     quadrant: 2,
                     ring: 0,
                     label: "SP Migrations",
                     active: false,
-                    link: "https://elantis.sharepoint.com/sites/CC/SitePages/Enterprise-Content-Management.aspx",
+                    link: "../data_processing/spmigrations.html",
                     moved: 0
                 }, {
                     quadrant: 2,
                     ring: 3,
                     label: "SP 2010",
                     active: false,
-                    link: "https://elantis.sharepoint.com/sites/CC/SitePages/Enterprise-Content-Management.aspx",
+                    link: "../data_processing/SP2010.html",
                     moved: 0
                 }, {
                     quadrant: 2,
@@ -146,7 +146,7 @@
                     ring: 0,
                     label: "Managed Services",
                     active: false,
-                    link: "https://elantis.sharepoint.com/sites/CC/SitePages/Enterprise-Content-Management.aspx",
+                    link: "../data_processing/managedservicesq2.html",
                     moved: 0
                 }, {
                     quadrant: 0,
@@ -160,26 +160,26 @@
                     ring: 2,
                     label: "Microsoft 365 Assessments",
                     active: false,
-                    link: "https://elantis.sharepoint.com/sites/CC/SitePages/Enterprise-Content-Management.aspx",
+                    link: "../data_processing/m365assessments.html",
                     moved: 0
                 }, {
                     quadrant: 2,
                     ring: 2,
                     label: "Microsoft 365 Maturity",
                     active: false,
-                    link: "https://elantis.sharepoint.com/sites/CC/SitePages/Enterprise-Content-Management.aspx",
+                    link: "../data_processing/m365maturity.html",
                     moved: 0
                 }, {
                     quadrant: 2,
                     ring: 2,
                     label: "Collabware",
                     active: false,
-                    link: "https://elantis.sharepoint.com/sites/CC/SitePages/Enterprise-Content-Management.aspx",
+                    link: "../data_processing/collabware.html",
                     moved: 0
                 }, {
                     quadrant: 0,
                     ring: 2,
-                    label: "Nintex RPA",
+                    label: "Nintex FoxTrot RPA",
                     active: false,
                     link: "../data_processing/nintexfoxtrotrpa.html",
                     moved: 0
@@ -193,7 +193,7 @@
                 }, {
                     quadrant: 1,
                     ring: 1,
-                    label: "MS Power Bi",
+                    label: "For Doug",
                     active: false,
                     link: "../data_processing/nintexsign.html",
                     moved: 0
